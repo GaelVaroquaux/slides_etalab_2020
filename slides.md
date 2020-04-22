@@ -22,18 +22,19 @@ Non compréhension de la croissance exponentielle.
 
 Ergotage sur les termes pandémie et phase 3.
 
-.width50.pull-left[
-Dashboards existants á l'époque:
+<br/>
+
+.red.shift-left.width60.pull-left[
+Dashboards existants à l'époque:
 
 * Évolution de la Chine uniquement
 * Trop technique
 ]
-
-.shift-right[
+.green.width40.shift-right.pull-right[
 Conséquences:
 
 * Présentation simple
-* Texte accompagnateur
+* Explications texte
 ]
 
 ---
