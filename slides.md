@@ -6,6 +6,8 @@ Emmanuelle Gouillart & Gaël Varoquaux
 
 https://covid19-dash.github.io/
 
+Russ Poldrack, Guillaume Lemaitre, Ashwin PN, Mojdeh Rastgoo Lemaitre, Ranjan
+Khyadad, Marianne Corvellec, Elizabeth DuPre
 
 ???
 
@@ -22,7 +24,6 @@ Non compréhension de la croissance exponentielle.
 
 Ergotage sur les termes pandémie et phase 3.
 
-<br/>
 
 .red.shift-left.width60.pull-left[
 Dashboards existants à l'époque:
@@ -45,13 +46,48 @@ Conséquences:
 * Plotly
 * Dash
 
+---
+
+# Demo
+
+* Limiter les interactions
+* Choix: 
+    * Rapporté à la population (infos complètes dans le hover)
+    * Lin vs. log
+    * Cas confirmés et décès
+
 
 ---
 
-# DevOps pour chercheurs maladroits
+# Développement pour chercheurs maladroits
+
+* GitHub Actions
+* Fonctionnement communautaire: revue des pull requests grâce aux artifacts
+  Circle CI
+
+---
+
+# Data wrangling
+
+* Data source
+
+* Data merging
 
 
 ---
+
+# Modèle prédictif
+
+* Modèle linéaire en échelle log
+* Fenêtre sur 14 jours
+* Poids décroissant avec le temps
+* Validation en rejouant l'historique
+
+https://github.com/covid19-dash/covid-dashboard/blob/master/modeling.py
+
+---
+
+
 # Thank you
 
 
