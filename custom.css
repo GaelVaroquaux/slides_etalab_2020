@@ -151,6 +151,11 @@ div.remark-slide .large {
     width: 30%;
 }
 
+.width35 {
+    width: 30%;
+}
+
+
 .width40 {
     width: 40%;
 }
@@ -168,6 +173,13 @@ div.remark-slide .large {
     margin-right: -1ex;
     display: block;
 }
+
+.shift-righft {
+    margin-left: 1ex;
+    margin-right: -1ex;
+    display: block;
+}
+
 
 .shift-up {
     margin-top: -3ex;
