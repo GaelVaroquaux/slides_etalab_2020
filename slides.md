@@ -16,7 +16,7 @@ Some notes go here including this list:
 
 # Pourquoi: Sensibiliser le grand public
 
-Indifférence généralisée, début mars.
+**Début mars**: Indifférence généralisée.
 
 Non compréhension de la croissance exponentielle.
 
