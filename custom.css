@@ -139,6 +139,10 @@ div.remark-slide .large {
     margin-top: 0px;
 }
 
+.pull-left p:first-of-type {
+    margin-top: 0px;
+}
+
 .pull-right + p, .pull-right + span {
     clear: both;
 }
@@ -174,11 +178,7 @@ div.remark-slide .large {
     display: block;
 }
 
-.shift-left p:first-of-type {
-    margin-top: 0px;
-}
-
-.shift-righft {
+.shift-right {
     margin-left: 1ex;
     margin-right: -1ex;
     display: block;
