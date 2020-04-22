@@ -119,6 +119,18 @@ div.remark-slide .large {
     font-size: 45px;
 }
 
+div.remark-slide .xlarge {
+    font-size: 65px;
+}
+
+div.remark-slide .xxlarge {
+    font-size: 85px;
+}
+
+div.remark-slide .xxxlarge {
+    font-size: 105px;
+}
+
 
 .larger {
     transform: scale(1.2);

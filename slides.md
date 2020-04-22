@@ -46,6 +46,9 @@ Conséquences:
 * Plotly
 * Dash
 
+.xxxlarge[🐍]
+
+
 ---
 
 # Demo
@@ -69,14 +72,30 @@ Conséquences:
 
 # Data wrangling
 
-* Data source
+<img src="github_wrangling.png" style="float: right; width: 52%; margin-right: -8%;margin-top: -12%;">
 
-* Data merging
+* Source de données
 
+   * Johns Hopkin University
+   * Cas détectés et dates
+
+* Croiser les données
+
+   * Appariement d'entitées
+
+.xxxlarge[🐼]
 
 ---
 
 # Modèle prédictif
+
+.shift-right.pull-right[
+
+<img src="extrapolation_linear.png" style="width: 100%; margin-top: -30%;">
+
+<img src="extrapolation_long_time.png" style="width: 100%;">
+
+]
 
 * Modèle linéaire en échelle log
 * Fenêtre sur 14 jours
@@ -86,9 +105,9 @@ Conséquences:
 https://github.com/covid19-dash/covid-dashboard/blob/master/modeling.py
 
 ---
+class: center, middle
 
 
 # Thank you
 
-
-
+.xxxlarge[😸]
