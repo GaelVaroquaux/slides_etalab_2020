@@ -47,9 +47,17 @@ Conséquences:
 
 # Techno web pour chercheurs pressés
 
-* Python
-* Plotly
-* Dash
+.shift-right.pull-right[
+
+<iframe width="120%" height='900px' src="https://plotly.com/python/choropleth-maps/" frameborder="0" allowfullscreen></iframe>
+
+
+]
+
+
+* Python: stack scientifique
+* Plotly: figure interactives, web natif (HTML + Javascript) avec API Python
+* Dash: applications web analytiques en pur Python
 
 .xxxlarge[🐍]
 
@@ -86,7 +94,7 @@ Conséquences:
 
 * Croiser les données
 
-   * Appariement d'entitées
+   * Appariement d'entités
 
 .xxxlarge[🐼]
 
