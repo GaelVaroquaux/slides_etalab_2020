@@ -4,6 +4,8 @@ class: center, middle
 
 Emmanuelle Gouillart & Gaël Varoquaux
 
+Plotly &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; INRIA 
+
 https://covid19-dash.github.io/
 
 Russ Poldrack, Guillaume Lemaitre, Ashwin PN, Mojdeh Rastgoo Lemaitre, Ranjan
@@ -16,7 +18,7 @@ Some notes go here including this list:
 
 ---
 
-# Pourquoi: Sensibiliser le grand public
+# But: Sensibiliser le grand public
 
 **Début mars**: Indifférence généralisée.
 
@@ -37,6 +39,9 @@ Conséquences:
 * Présentation simple
 * Explications texte
 ]
+
+<img src="lemonde-titre.png" style="float: left; width: 42%; margin-right: -8%;margin-top: -2%;">
+<img src="lemonde-titre2.png" style="float: right; width: 42%; margin-right: -8%;margin-top: -2%;">
 
 ---
 
